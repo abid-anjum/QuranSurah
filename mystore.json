@@ -1,11 +1,11 @@
 
   "grocerystore": [
      { 
-        "id":"1", 
+        "id": 1, 
         "name": "Milk" 
      }, 
      { 
-        "id":"2", 
+        "id": 2, 
         "name": "Egg"
      } 
   ]   
